@@ -122,6 +122,9 @@ rspec spec
 - Twitter: [@twitterhandle](https://twitter.com/profsain)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/profsain)
 
+## Future Feature
+- Add users account
+- Sending greeting message to group
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
